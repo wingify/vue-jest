@@ -1,5 +1,41 @@
+<a name="v1.4.0"></a>
+## [v1.4.0](https://github.com/eddyerburgh/vue-jest/compare/v1.3.0...v1.4.0) (2017-12-13)
+
+
+### Bug Fixes
+
+* replace coffee-script with coffeescript ([#34](https://github.com/eddyerburgh/vue-jest/issues/34)) ([2ec4144](https://github.com/eddyerburgh/vue-jest/commit/2ec4144))
+
+### Features
+
+* transpile coffeescript written in ES6 ([#35](https://github.com/eddyerburgh/vue-jest/issues/35)) ([c5448c7](https://github.com/eddyerburgh/vue-jest/commit/c5448c7))
+* **sourceMap:** Add source mapping for external scripts ([#37](https://github.com/eddyerburgh/vue-jest/issues/37)) ([213ac68](https://github.com/eddyerburgh/vue-jest/commit/213ac68))
+
+<a name="v1.3.0"></a>
+# [v1.3.0](https://github.com/eddyerburgh/vue-jest/compare/v1.2.0...v1.3.0) (2017-12-05)
+
+
+### Features
+
+* return source map object ([92b664e](https://github.com/eddyerburgh/vue-jest/commit/92b664e))
+
+
+<a name="1.2.0"></a>
+## [1.2.0](https://github.com/eddyerburgh/vue-jest/compare/v1.1.0...v1.2.0) (2017-11-27)
+
+### Features
+
+* **external scripts:** add support for external scripts in SFC
+
+<a name="1.1.0"></a>
+## [1.1.0](https://github.com/eddyerburgh/vue-jest/compare/v1.0.3...v1.1.0) (2017-11-22)
+
+### Features
+
+* **HAML:** support for HAML components
+
 <a name="1.0.3"></a>
-## [1.0.3](https://github.com/eddyerburgh/vue-jest/compare/v1.0.2...v1.0.3) (2017-13-05)
+## [1.0.3](https://github.com/eddyerburgh/vue-jest/compare/v1.0.2...v1.0.3) (2017-11-13)
 
 ### Bug Fixes
 
